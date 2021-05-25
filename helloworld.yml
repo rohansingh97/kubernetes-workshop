@@ -8,8 +8,8 @@ spec:
   containers:
   -  name: rohan-demo
      image: arjunachari12/k8s-demo
-  ports:
-  -  name: nodejs-port
-     containerPort: 3000
+     ports:
+     -  name: nodejs-port
+        containerPort: 3000
      
      
