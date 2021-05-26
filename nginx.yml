@@ -10,4 +10,4 @@ spec:
      image: nginx
      ports:
      -  name: nodejs-port
-        containerPort: 80
+        containerPort: 3001
